@@ -1,5 +1,11 @@
 ## Hyprland + Hyprpaper + Hyprlock configuration
-This is my Arch ricing setup for Hyprland
+The very minimal setup for the very GOATED linux distro
+
+<img width="1920" height="1080" alt="screenshot-20250919-195945" src="https://github.com/user-attachments/assets/e7e80f0a-5606-4c01-a617-4a2e51d1ce42" />
+
+<img width="1920" height="1080" alt="screenshot-20250919-195957" src="https://github.com/user-attachments/assets/f2f89b5a-9da5-4e64-9ea4-53b5d5bf896e" />
+
+
 
 ### Requirements
 
