@@ -21,6 +21,8 @@ Step 2 : Clone this repo to ~/.config/hypr
 **If you have the dependencies installed**, the you should see the changes
 If not, then restart hyprland and enjoy!
 
+##### Find my WAYBAR config with a custom lock screen - [waybar-be-good](https://github.com/dibyacodes/waybar-be-good)
+
 #### NOTE 
 Refer to the hyprland.conf file to see the programs like terminal, or disabling hyprpaper / hyprlock, or playing with the Key Bindings
 
